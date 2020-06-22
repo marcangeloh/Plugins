@@ -1,1 +1,2 @@
 1.0.0
+https://github.com/ThugMC/ThugMCStats/blob/master/target/ThugMCStats-1.0.0.jar?raw=true
