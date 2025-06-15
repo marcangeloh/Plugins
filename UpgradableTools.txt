@@ -1,0 +1,2 @@
+1.21.1-SNAPSHOT
+https://hangar.papermc.io/marcangeloh/UpgradableTools
